@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coloureader/static/css/main.70c5c688.css",
+    "main.js": "/coloureader/static/js/main.1e69abd2.js",
+    "static/js/787.955d2863.chunk.js": "/coloureader/static/js/787.955d2863.chunk.js",
+    "index.html": "/coloureader/index.html",
+    "main.70c5c688.css.map": "/coloureader/static/css/main.70c5c688.css.map",
+    "main.1e69abd2.js.map": "/coloureader/static/js/main.1e69abd2.js.map",
+    "787.955d2863.chunk.js.map": "/coloureader/static/js/787.955d2863.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70c5c688.css",
+    "static/js/main.1e69abd2.js"
+  ]
+}
